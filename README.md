@@ -1,11 +1,11 @@
 - 👋 Salut, je m'appelle KADJI KADJI Anicet Diderot, username: @AnicetKJ
   
 - 👀 Je suis fasciné par tout ce qui est à la pointe de la technologie, surtout dans le domaine de l'IA
-- 🌱 Je me forme continuellement en DATASCIENCE, et je recherche activement un poste de Junior ou Assistant DS
+- 🌱 J'ai des bases solides en DATASCIENCE, avec des applications en IoT (Python, Flutter et protocole MQTT)
   
-- 💞️ J'ai eu le plaisir de collaborer dans quelques projets privés, consolidant ma capacité de travail en équipe
-- 📫 En cette année 2025, je compte travailler regulierement sur Github, pour montrer aussi ce que je fais
-- 😄 Apparemment, si tes compétences ne sont pas vérifiables, alors, elles n'existent pas pour le monde exterieur
+- 💞️ J'ai eu le plaisir de collaborer dans quelques projets privés dans l'optique d'appréhender le côté Entreprise
+- 📫 En cette année 2025, je compte travailler regulierement sur Github, Forgejo ou toute git collaboratif 
+- 😄 Et j'espère que, d'ici mi-2026 j'aurais assez de solidité pour apporter ma contribution à la société
   
 - ⚡ Vous pouvez me joindre par mail [ici](kadjicet@gmail.com)
 
